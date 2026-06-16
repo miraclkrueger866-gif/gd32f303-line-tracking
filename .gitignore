@@ -1,0 +1,27 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Build artifacts
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+depend/
+*.d
+
+# Build directories
+build/
+Debug/
+Release/
+obj/
